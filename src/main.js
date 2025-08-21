@@ -158,10 +158,8 @@ const Doc = [
   ),
   footer(
     p(
-      'by Mozzie Dvorak // with ',
-      a('Ellipsi', { href: 'https://www.npmjs.com/package/ellipsi' }),
-      ' // view ',
-      a('page source', { href: 'https://github.com/mdvorak340/mdvorak340.github.io/tree/main/ws' }),
+      'by Carston Wiebe // with ',
+      a('Ellipsi', { href: 'https://www.npmjs.com/package/ellipsi' })
     ),
   ),
 ]

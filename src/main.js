@@ -158,7 +158,7 @@ const Doc = [
   ),
   footer(
     p(
-      'by Carston Wiebe // with ',
+      'by C Wiebe // with ',
       a('Ellipsi', { href: 'https://www.npmjs.com/package/ellipsi' })
     ),
   ),

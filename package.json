@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npx webpack"
   },
-  "author": "Carston Wiebe",
+  "author": "C Wiebe",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^5.99.9",

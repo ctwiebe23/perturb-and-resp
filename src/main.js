@@ -109,15 +109,15 @@ const Sources = [
     { href: 'https://stackoverflow.com/questions/666601/what-is-the-correct-way-of-reading-from-a-tcp-socket-in-c-c' },
   ),
   a(
-    'CLI tool for probing websockets',
+    'CLI tool for probing WebSockets',
     { href: 'https://github.com/vi/websocat' },
   )
 ]
 
 const Doc = [
   header(
-    h1('Websocket Perturbation & Response'),
-    p('A simple interface for making and probing websocket connections using the WebSocket API.'),
+    h1('WebSocket Perturbation & Response'),
+    p('A simple interface for making and probing WebSocket connections using the WebSocket API.'),
   ),
   main(
     form(

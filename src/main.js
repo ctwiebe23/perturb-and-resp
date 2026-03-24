@@ -116,7 +116,7 @@ const Sources = [
 
 const Doc = [
   header(
-    h1('Websocket Pertubation & Response'),
+    h1('Websocket Perturbation & Response'),
     p('A simple interface for making and probing websocket connections using the WebSocket API.'),
   ),
   main(
@@ -141,7 +141,7 @@ const Doc = [
         legend('Output'),
         table(
           tr(
-            td(label('Pertubation', { for: Outgoing.id }), { class: 'nosmall' }),
+            td(label('Perturbation', { for: Outgoing.id }), { class: 'nosmall' }),
             td(label('Response', { for: Incoming.id })),
           ),
           tr(
